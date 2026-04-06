@@ -37,7 +37,7 @@
 | 功能 | 说明 |
 |------|------|
 | 🖱️ **极简 GUI 界面** | 不用记命令，小白也能秒上手 |
-| 💻 **CLI 命令行** | 给 AI 工具和极客用，支持 JSON 输出 |
+| 💻 **CLI 命令行 + JSON 输出** | 完美支持 OpenClaw 小龙虾、各种 AI 大模型工具调用 |
 | 🎯 **5 档预设** | 一键选择，不用调参数 |
 | 📱 **竖屏视频智能适配** | 抖音/小红书视频，自动限制宽度，不变形 |
 | ⚡ **NVIDIA 硬件加速** | 有 N 卡？速度飞起！ |
@@ -140,7 +140,7 @@ A: 可以！你可以添加多个视频，程序会自动排队处理！
 | Feature | Description |
 |---------|-------------|
 | 🖱️ **Simple GUI** | No commands to remember, beginners can use instantly |
-| 💻 **CLI** | For AI tools and power users, supports JSON output |
+| 💻 **CLI + JSON Output** | Perfect for OpenClaw and various AI LLM tool calling |
 | 🎯 **5 Preset Profiles** | One-click selection, no parameter tuning |
 | 📱 **Vertical Video Smart Adaptation** | TikTok/RedNote videos, auto limit width, no distortion |
 | ⚡ **NVIDIA Hardware Acceleration** | Have an NVIDIA GPU? Blazing fast! |
